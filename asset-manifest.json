@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spethreact/static/css/main.544f7536.css",
+    "main.css": "/spethreact/static/css/main.cdeb2106.css",
     "main.js": "/spethreact/static/js/main.03f47870.js",
     "static/media/speth_sp.jpg": "/spethreact/static/media/speth_sp.f444a6f9c9dc09d67096.jpg",
     "static/media/unity_edited.jpg": "/spethreact/static/media/unity_edited.24cb2c682418eb1dc76c.jpg",
@@ -8,11 +8,11 @@
     "static/media/wireframe1shot.jpg": "/spethreact/static/media/wireframe1shot.32a739da506b0fb8b7c9.jpg",
     "static/media/profilepic.jpg": "/spethreact/static/media/profilepic.cd782b906ba386b04afc.jpg",
     "index.html": "/spethreact/index.html",
-    "main.544f7536.css.map": "/spethreact/static/css/main.544f7536.css.map",
+    "main.cdeb2106.css.map": "/spethreact/static/css/main.cdeb2106.css.map",
     "main.03f47870.js.map": "/spethreact/static/js/main.03f47870.js.map"
   },
   "entrypoints": [
-    "static/css/main.544f7536.css",
+    "static/css/main.cdeb2106.css",
     "static/js/main.03f47870.js"
   ]
 }
