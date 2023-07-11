@@ -1,0 +1,19 @@
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.profileimg {
+	width: 400px;
+	position: relative;
+	top: 50%;
+	left: 50%;
+}
+
+
+@media screen and (max-width: 640px) {
+	.profileimg {
+		height: 400px;
+	}
+}

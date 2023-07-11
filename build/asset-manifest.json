@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/speth-portfolio/static/css/main.04e3d2c2.css",
+    "main.js": "/speth-portfolio/static/js/main.0541df4e.js",
+    "static/media/wireframe.jpg": "/speth-portfolio/static/media/wireframe.d287811703d1c3a80cb1.jpg",
+    "index.html": "/speth-portfolio/index.html",
+    "main.04e3d2c2.css.map": "/speth-portfolio/static/css/main.04e3d2c2.css.map",
+    "main.0541df4e.js.map": "/speth-portfolio/static/js/main.0541df4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e3d2c2.css",
+    "static/js/main.0541df4e.js"
+  ]
+}
